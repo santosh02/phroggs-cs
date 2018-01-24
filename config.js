@@ -91,7 +91,7 @@
 			// -------------------------------------------------------------------------------------
 			// EMAIL : STRING
 
-			emailTo: 'yallowina.themes@gmail.com',
+			emailTo: 'design@phroggs.com',
 
 	}
 
@@ -107,6 +107,6 @@
 		// -------------------------------------------------------------------------
 		// EMAIL : STRING
 
-		emailTo: 'yallowina.themes@gmail.com',
+		emailTo: 'design@phroggs.com',
 
 	}

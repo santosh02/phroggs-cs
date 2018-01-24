@@ -81,13 +81,13 @@ html {
   border-color: #773232; }
 
 .color-blue, .navigation ul li .title-animation, .navigation ul li .title-animation:hover span:last-of-type, .navigation ul .g-map-marker .g-map-marker-animation span, .navigation-mobile .navbar-collapse ul li, #main .subscribe .subscribe-open, #main .subscribe .subscribe-close:hover, #main .subscribe .subscribe-close:hover .ion-ios-close-empty, #main .subscribe .subscribe-form .subscribe-submit, #main .main-wrapper .logo-wrapper .logo-wrapper-animation .logo-animation, #main .main-wrapper .logo-wrapper .logo-wrapper-animation .logo-animation:hover span:last-of-type, #main #counter .counter-wrapper .countdown-wrap {
-  color: #07516c; }
+  color: #ffb6c1; }
 
 .background-color-blue, .navigation ul li .title-animation span:before, .navigation-mobile .icon-bar, #main .subscribe .subscribe-open:hover, #main .subscribe .subscribe-close, #main .subscribe .subscribe-form .subscribe-submit:hover, #main .main-wrapper .logo-wrapper .logo-wrapper-animation .logo-animation span:before {
-  background-color: #07516c; }
+  background-color: #ffb6c1; }
 
 .border-color-blue, .navigation ul .g-map-marker, .navigation-mobile .navbar-toggler, .navigation-mobile .navbar-collapse ul li, .navigation-mobile .navbar-collapse ul li:last-child, #main .subscribe .subscribe-open, #main .subscribe .subscribe-form .subscribe-field, #main .subscribe .subscribe-form .subscribe-submit, #main .subscribe .subscribe-form .subscribe-submit:hover {
-  border-color: #07516c; }
+  border-color: #ffb6c1; }
 
 .color-green {
   color: #4b664c; }
